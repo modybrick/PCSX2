@@ -5,4 +5,4 @@ gametitle=NASCAR 07 NTSC-U SLUS-21461 FB0EB42B
 author=modybrick
 description=Disables steering deadzone
 
-patch=1,EE,004D1128,word,00000000 //3E800000
+patch=1,EE,004D1128,word,3C23D70A //3E800000
