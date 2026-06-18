@@ -1,0 +1,8 @@
+gametitle=NASCAR 07 NTSC-U SLUS-21461 FB0EB42B
+
+[STEERING DEADZONE FIX]
+
+author=modybrick
+description=Disables steering deadzone
+
+patch=1,EE,004D1128,word,00000000 //3E800000
